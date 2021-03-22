@@ -29,7 +29,8 @@ cobolSum <- cobolR(cobolCode)
 
 res <- cobolSum(as.integer(1000),as.integer(1234))
 ```
-This should print: 
+This should print:
+
 ![output](/documentation/output.png)
 
 
